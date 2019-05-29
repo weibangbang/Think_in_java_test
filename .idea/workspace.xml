@@ -1,7 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f1e90f9-7180-43e0-9064-290d72077e5a" name="Default Changelist" comment="" />
+    <list default="true" id="1f1e90f9-7180-43e0-9064-290d72077e5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/BasicGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/BinaryFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/CollectionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/ContainerMethodDifferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/ConvertTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/CountingGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/CountingIntegerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/CountingMapData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/DaemonThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/DaemonThreadPoolExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Enums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/FiveTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/FourTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Generated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Hex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/MapData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/New.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Null.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/OSExecute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/OSExecuteException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/PPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/ProcessFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/RandomGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/SwingConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/TaskItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/TaskManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/TextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/ThreeTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/Tuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/TwoTuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/net/mindview/util/TypeCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tpye_info/PetCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tpye_info/PetCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tpye_info/PetCount2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tpye_info/PetCount2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tpye_info/PetCount3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tpye_info/PetCount3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tpye_info/pets/ForNameCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tpye_info/pets/ForNameCreator.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,66 +58,61 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/toys/GenericToyTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/PetCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="157">
+              <caret line="53" column="32" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1495#1496#0" expanded="true" />
+                <element signature="e#1536#1537#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Cat.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Pet.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Mutt.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="81">
               <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Pug.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/PetCount3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="162">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Rodent.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/net/mindview/util/Hex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="108">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/LiteralPetCreator.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/PetCount2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/PetCreator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="17" />
+            <state relative-caret-position="27">
+              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -78,22 +120,24 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/ForNameCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="311">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding>
+                <element signature="e#542#572#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>printnb</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -105,21 +149,27 @@
         <option value="$PROJECT_DIR$/src/test/java/tpye_info/toys/GenericToyTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/tpye_info/pets/Cat.java" />
         <option value="$PROJECT_DIR$/src/test/java/tpye_info/PetCount4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tpye_info/PetCount.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tpye_info/PetCount2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tpye_info/PetCount3.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tpye_info/pets/ForNameCreator.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="156" />
     <option name="y" value="65" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,27 +212,21 @@
               <item name="tpye_info" type="462c0819:PsiDirectoryNode" />
               <item name="pets" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Think_in_java_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Think_in_java_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tpye_info" type="462c0819:PsiDirectoryNode" />
-              <item name="ToyTest.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/tpye_info" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Users\workplace\Think_in_java_test\src\test\java" />
       <recent name="E:\Users\weiba\IdeaProjects\Think_in_java_test\src\test\java\tpye_info" />
       <recent name="E:\Users\weiba\IdeaProjects\Think_in_java_test\src\test\java\tpye_info\toys" />
     </key>
@@ -199,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GenericToyTest">
+  <component name="RunManager" selected="Application.PetCount">
     <configuration name="ClassInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="tpye_info.ClassInitialization" />
       <module name="Think_in_java_test" />
@@ -252,8 +296,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tpye_info.Shapes" />
+    <configuration name="PetCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tpye_info.PetCount" />
       <module name="Think_in_java_test" />
       <extension name="coverage">
         <pattern>
@@ -267,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PetCount" />
         <item itemvalue="Application.GenericToyTest" />
         <item itemvalue="Application.FilledList" />
         <item itemvalue="Application.GenericClassReferences" />
         <item itemvalue="Application.ClassInitialization" />
-        <item itemvalue="Application.Shapes" />
       </list>
     </recent_temporary>
   </component>
@@ -292,34 +336,52 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32936078" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.08992416" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22318527" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.25460455" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tpye_info/PetCount.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tpye_info/PetCount.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/SweetShop.java">
@@ -329,13 +391,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5729">
-          <caret line="154" column="59" selection-start-line="154" selection-start-column="48" selection-end-line="154" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/Class.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/Shapes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
@@ -374,71 +430,122 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/PetCount4.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/toys/GenericToyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
+        <state relative-caret-position="351">
           <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Cat.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Pet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="81">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Pug.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="81">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Rodent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="81">
           <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/LiteralPetCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
+        <state relative-caret-position="108">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/PetCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
+        <state relative-caret-position="189">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/PetCount4.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="81">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/PetCount2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/mindview/util/Hex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/mindview/util/BinaryFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/PetCount3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/Mutt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/PetCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1495#1496#0" expanded="true" />
+            <element signature="e#1536#1537#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tpye_info/pets/ForNameCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+        <state relative-caret-position="311">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#542#572#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

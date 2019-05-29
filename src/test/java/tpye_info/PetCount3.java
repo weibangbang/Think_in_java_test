@@ -1,9 +1,9 @@
 package tpye_info;//: typeinfo/PetCount3.java
 // Using isInstance()
-import typeinfo.pets.*;
+import tpye_info.pets.*;
 import java.util.*;
 import net.mindview.util.*;
-import static net.mindview.util.Print.*;
+
 
 public class PetCount3 {
   static class PetCounter
@@ -35,11 +35,11 @@ public class PetCount3 {
   public static void main(String[] args) {
     PetCounter petCount = new PetCounter();
     for(Pet pet : Pets.createArray(20)) {
-      printnb(pet.getClass().getSimpleName() + " ");
+      System.out.println(pet.getClass().getSimpleName() + " ");
       petCount.count(pet);
     }
-    print();
-    print(petCount);
+    System.out.println();
+    System.out.println(petCount);
   }
 } /* Output:
 Rat Manx Cymric Mutt Pug Cymric Pug Manx Cymric Rat EgyptianMau Hamster EgyptianMau Mutt Mutt Cymric Mouse Pug Mouse Cymric
